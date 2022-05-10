@@ -1,7 +1,5 @@
 """
 Jesus Zeno
-Assignment 2
-SIE 508
 """
 
 """
